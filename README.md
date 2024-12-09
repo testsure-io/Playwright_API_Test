@@ -1,8 +1,4 @@
-Here’s a **README.md** file that explains the provided API test suite using Playwright:
-
----
-
-# API Test Suite with Playwright
+ API Test Suite with Playwright
 
 This project demonstrates API testing using Playwright. It includes tests for HTTP methods such as DELETE, PUT, POST, and GET. Each test verifies the response status and validates response data.
 
